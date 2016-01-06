@@ -13,4 +13,5 @@ and open the template in the editor.
 	<comment>File di property per il caricamento dei singleton controller</comment>
 	<entry key="controller1">it.marconi.controller.Controller1</entry>
         <entry key="controller2">it.marconi.controller.Controller2</entry>
+        <entry key="controller3">it.marconi.controller.Controller3</entry>
    </properties>
